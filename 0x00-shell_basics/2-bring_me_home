@@ -1,2 +1,3 @@
 #!/bin/bash 
-source cd /root 
+cd /root 
+exec bash 
